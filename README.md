@@ -1,6 +1,9 @@
-<div id="header" align="center">
-  <img src="https://i.gifer.com/origin/18/183e08cdc3ae87ee9c14fa74ef83a5b9.gif" width="500"/>
-</div>
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=makedonskyy&theme=radical)](https://git.io/streak-stats) 
+<div id="header"><img src="https://i.gifer.com/origin/18/183e08cdc3ae87ee9c14fa74ef83a5b9.gif" width="500"/></div>  -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makedonskyy)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 <!--
