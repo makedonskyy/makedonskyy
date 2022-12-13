@@ -1,4 +1,7 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://i.gifer.com/origin/18/183e08cdc3ae87ee9c14fa74ef83a5b9.gif" width="500"/>
+</div>
+
 
 <!--
 **makedonskyy/makedonskyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
